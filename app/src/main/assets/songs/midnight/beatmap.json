@@ -1,0 +1,10 @@
+{
+  "title": "Midnight Drive (metronome placeholder)",
+  "audio": "",
+  "bpm": 80.0,
+  "offsetMs": 0,
+  "sections": [
+    { "atBeat": 0, "area": "DOWNTOWN", "lanes": 3, "speed": 1.0 }
+  ],
+  "notes": []
+}

@@ -1,0 +1,1 @@
+# NEON RAIN proguard rules
